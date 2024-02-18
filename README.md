@@ -60,21 +60,18 @@ Y alguna más...
 ![https://mouredev.com/python](./python_banner.png)
 
 
-## Sitecore on AWS
+## CodeProject Articles
 ![https://mouredev.com/python](./python_banner.png)
 
-#### LeasePlan Sitecore Implementation with Amazon EKS
-![https://mouredev.com/git](./git_github_banner.png)
+#### Discovering the Vine API (April 2015)
+![http://www.codeproject.com/Articles/893709/Discovering-the-Vine-API](./git_github_banner.png)
 
-[![Curso Git](https://img.shields.io/github/stars/mouredev/hello-git?label=Curso%20Git%20y%20GitHub&style=social)](https://github.com/mouredev/hello-git)
+#### Discovering the Vine API (July 2014)
+![http://www.codeproject.com/Articles/795003/Windows-Phone-Media-Editing-API](./git_github_banner.png)
 
-## Un día, un lenguaje: Primeros pasos en 10 lenguajes
-![https://mouredev.com/lenguajes](./un_dia_un_lenguaje_banner.png)
+#### WinRT Apps Exception Logging (Dec 2013)
+![http://www.codeproject.com/Articles/690019/WinRT-Apps-Exception-Logging](./git_github_banner.png)
 
-
-#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
-
-[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
 
 ## Contacto:
