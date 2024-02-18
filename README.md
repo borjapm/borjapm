@@ -7,6 +7,7 @@ En 2014 dejé mi trabajo en una multinacional..
 Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles, colaborando con empresas de diferentes partes del mundo, creando más de 100 Apps y fundando mi propia startup.
 
 ## Awards
+![https://retosdeprogramacion.com](./img/awards-banner.jpeg)
 👥 [Sitecore MVP](https://mvp.sitecore.com/Directory?q=borja%20prado&fc_Year=2022) (Most Valuable Professional) 2022
 
 👥 [Sitecore MVP](https://mvp.sitecore.com/Directory?q=borja%20prado&fc_Year=2021) (Most Valuable Professional) 2021
