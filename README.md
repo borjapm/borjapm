@@ -41,6 +41,12 @@ Y alguna más...
 
 ## Sitecore on AWS
 
+#### Sitecore on AWS Reference Deployment
+![https://aws.amazon.com/solutions/partners/sitecore-xp/](./python_banner.png)
+
+#### Sitecore on AWS QuickStart Templates (GitHub)
+![https://github.com/aws-ia/cfn-ps-aws-ec2-sitecore-xp](./python_banner.png)
+
 
 
 ## AWS Blog Posts
