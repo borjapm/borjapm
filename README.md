@@ -8,15 +8,30 @@ I'm passionate about multicloud environments, complex cross-cloud migrations, we
 Outside work, you can find me traveling the world or trying asian food (specially thai ;D).
 
 ## Awards
-👥 [Sitecore MVP](https://mvp.sitecore.com/Directory?q=borja%20prado&fc_Year=2022) (Most Valuable Professional) 2022
+<table width=1000>
+<tr>
+<td align="top" width="50%"> <img src="./img/mvp-sitecore.jpeg" 
+        alt="Picture"
+        height="180"
+        style="display: block; margin: 0 auto" />
+
+👥  [Sitecore MVP](https://mvp.sitecore.com/Directory?q=borja%20prado&fc_Year=2022) (Most Valuable Professional) 2022
 
 👥 [Sitecore MVP](https://mvp.sitecore.com/Directory?q=borja%20prado&fc_Year=2021) (Most Valuable Professional) 2021
 
 👥 [Sitecore MVP](https://mvp.sitecore.com/Directory?q=borja%20prado&fc_Year=2020) (Most Valuable Professional) 2020
 
 👥 [Sitecore MVP](https://mvp.sitecore.com/Directory?q=borja%20prado&fc_Year=2019) (Most Valuable Professional) 2019
+</td>
+<td align="top" width="50%" VALIGN=TOP> <img src="./img/codeproject-logo.png" 
+        alt="Picture"
+        height="180"
+        style="display: block; margin: 0 auto" />
 
 👥 [CodeProject Top Author](https://www.codeproject.com/script/Membership/View.aspx?mid=8606340) 2014
+</td>
+</tr>
+</table>
 
 ## Content
 ### Sitecore on AWS
