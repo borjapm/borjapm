@@ -21,7 +21,9 @@ Outside work, you can find me traveling the world or trying asian food (speciall
 </td>
 <td valign="top"> <img src="./img/codeproject-logo.png" height="180"/>
       
-👥 [CodeProject Top Author](https://www.codeproject.com/script/Membership/View.aspx?mid=8606340) 2014
+👥 [CodeProject Top Author](https://www.codeproject.com/script/Membership/View.aspx?mid=8606340)
+
+👥 [Best Mobile Article of July 2014](https://www.codeproject.com/Competitions/750/Best-Mobile-Article-of-July-2014)
 </td>
 </tr>
 </table>
@@ -45,7 +47,7 @@ LeasePlan Sitecore Implementation with Amazon EKS: https://aws.amazon.com/blogs/
 
 Discovering the Vine API (April 2015): http://www.codeproject.com/Articles/893709/Discovering-the-Vine-API
 
-Discovering the Vine API (July 2014): http://www.codeproject.com/Articles/795003/Windows-Phone-Media-Editing-API
+Windows Phone 8.1 Media Editing API (July 2014): http://www.codeproject.com/Articles/795003/Windows-Phone-Media-Editing-API
 
 WinRT Apps Exception Logging (Dec 2013): http://www.codeproject.com/Articles/690019/WinRT-Apps-Exception-Logging
 
