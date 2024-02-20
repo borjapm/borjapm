@@ -1,13 +1,14 @@
 # Hi, my name is Borja Prado 👋
 ### Specialist Solutions Architect @ AWS
 
-Soy ingeniero de software profesional desde hace más de doce años.
+I´m Senior Specialist Solutions Architect at AWS for Microsoft technologies, leading modernization activities of windows-based workloads in EMEA.  
 
-En 2014 dejé mi trabajo en una multinacional..
-Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles, colaborando con empresas de diferentes partes del mundo, creando más de 100 Apps y fundando mi propia startup.
+I'm passionate about multicloud environments, complex cross-cloud migrations, web architectures and application modernization, helping customers to build scalable solutions with .NET on AWS. 
+
+Outside work, you can find me traveling the world or trying asian food (specially thai ;D).
 
 ## Awards
-![https://retosdeprogramacion.com](./img/awards_banner.jpeg)
+![](./img/awards_banner.jpeg)
 
 👥 [Sitecore MVP](https://mvp.sitecore.com/Directory?q=borja%20prado&fc_Year=2022) (Most Valuable Professional) 2022
 
@@ -17,7 +18,7 @@ Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones 
 
 👥 [Sitecore MVP](https://mvp.sitecore.com/Directory?q=borja%20prado&fc_Year=2019) (Most Valuable Professional) 2019
 
-👥 [CodeProject Top Author](https://mvp.sitecore.com/Directory?q=borja%20prado&fc_Year=2019) 2014
+👥 [CodeProject Top Author](https://www.codeproject.com/script/Membership/View.aspx?mid=8606340) 2014
 
 ## Content
 ### Sitecore on AWS
