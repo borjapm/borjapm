@@ -19,7 +19,7 @@ Outside work, you can find me traveling the world or trying asian food (speciall
 
 👥 [Sitecore MVP](https://mvp.sitecore.com/Directory?q=borja%20prado&fc_Year=2019) (Most Valuable Professional) 2019
 </td>
-<td valign="top"> <img src="./img/codeproject-logo.png" height="180"/>
+<td valign="top"> <img src="./img/codeproject.png" height="180"/>
       
 👥 [CodeProject Top Author](https://www.codeproject.com/script/Membership/View.aspx?mid=8606340)
 
