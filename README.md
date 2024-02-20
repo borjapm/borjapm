@@ -1,4 +1,4 @@
- # Hi, my name is Borja Prado 👋
+# Hi, my name is Borja Prado 👋
 ### Specialist Solutions Architect @ AWS
 
 I´m Senior Specialist Solutions Architect at AWS for Microsoft technologies, leading modernization activities of windows-based workloads in EMEA.  
@@ -27,18 +27,20 @@ Outside work, you can find me traveling the world or trying asian food (speciall
 </table>
 
 ## Content
-<img src="./img/sitecore-logo.png" height="100"/>
+<img src="./img/sitecore-logo.png" height="50"/>
 
-Sitecore on AWS Reference Deployment: https://aws.amazon.com/solutions/partners/sitecore-xp/
+Sitecore on AWS Reference Deployment (https://aws.amazon.com/solutions/partners/sitecore-xp)
 
 Sitecore on AWS QuickStart Templates (GitHub) https://github.com/aws-ia/cfn-ps-aws-ec2-sitecore-xp
 
-<img src="./img/aws.png" height="100"/>
+##
+<img src="./img/aws.png" height="80"/>
 
 Standardizing CI/CD pipelines for .NET web applications with AWS Service Catalog: https://aws.amazon.com/blogs/devops/standardizing-cicd-pipelines-net-web-applications-aws-service-catalog/
 
 LeasePlan Sitecore Implementation with Amazon EKS: https://aws.amazon.com/blogs/architecture/leaseplan-sitecore-implementation-with-amazon-eks/
 
+##
 <img src="./img/codeproject-banner.png" height="100"/>
 
 Discovering the Vine API (April 2015): http://www.codeproject.com/Articles/893709/Discovering-the-Vine-API
@@ -47,4 +49,6 @@ Discovering the Vine API (July 2014): http://www.codeproject.com/Articles/795003
 
 WinRT Apps Exception Logging (Dec 2013): http://www.codeproject.com/Articles/690019/WinRT-Apps-Exception-Logging
 
+
 ## Projects
+
