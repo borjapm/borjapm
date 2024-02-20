@@ -8,7 +8,7 @@ I'm passionate about multicloud environments, complex cross-cloud migrations, we
 Outside work, you can find me traveling the world or trying asian food (specially thai ;D).
 
 ## Awards
-<table><tr>
+<table><tr align="center">
 <td valign="top"> <img src="./img/mvp-sitecore.jpeg" height="180"/>
         
 👥 [Sitecore MVP](https://mvp.sitecore.com/Directory?q=borja%20prado&fc_Year=2022) (Most Valuable Professional) 2022
@@ -27,20 +27,19 @@ Outside work, you can find me traveling the world or trying asian food (speciall
 </table>
 
 ## Content
-### Sitecore on AWS
+<img src="./img/sitecore-logo.png" height="100"/>
 
 Sitecore on AWS Reference Deployment: https://aws.amazon.com/solutions/partners/sitecore-xp/
 
 Sitecore on AWS QuickStart Templates (GitHub) https://github.com/aws-ia/cfn-ps-aws-ec2-sitecore-xp
 
-### AWS Blog Posts
+<img src="./img/aws.png" height="100"/>
 
 Standardizing CI/CD pipelines for .NET web applications with AWS Service Catalog: https://aws.amazon.com/blogs/devops/standardizing-cicd-pipelines-net-web-applications-aws-service-catalog/
 
 LeasePlan Sitecore Implementation with Amazon EKS: https://aws.amazon.com/blogs/architecture/leaseplan-sitecore-implementation-with-amazon-eks/
 
-
-### CodeProject Articles
+<img src="./img/codeproject-banner.png" height="100"/>
 
 Discovering the Vine API (April 2015): http://www.codeproject.com/Articles/893709/Discovering-the-Vine-API
 
