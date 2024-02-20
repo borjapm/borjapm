@@ -8,8 +8,6 @@ I'm passionate about multicloud environments, complex cross-cloud migrations, we
 Outside work, you can find me traveling the world or trying asian food (specially thai ;D).
 
 ## Awards
-![](./img/awards_banner.jpeg)
-
 👥 [Sitecore MVP](https://mvp.sitecore.com/Directory?q=borja%20prado&fc_Year=2022) (Most Valuable Professional) 2022
 
 👥 [Sitecore MVP](https://mvp.sitecore.com/Directory?q=borja%20prado&fc_Year=2021) (Most Valuable Professional) 2021
