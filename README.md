@@ -28,7 +28,7 @@ Outside work, you can find me traveling the world or trying asian food (speciall
 </tr>
 </table>
 
-## Content (some posts and guidelines I've published)
+## Content
 <img src="./img/aws.png" height="80"/>
 
 - [Standardizing CI/CD pipelines for .NET web applications with AWS Service Catalog](https://aws.amazon.com/blogs/devops/standardizing-cicd-pipelines-net-web-applications-aws-service-catalog/)
@@ -53,4 +53,6 @@ Outside work, you can find me traveling the world or trying asian food (speciall
 
 
 ## Projects
+
+TO-DO
 
