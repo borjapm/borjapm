@@ -41,7 +41,7 @@ Standardizing CI/CD pipelines for .NET web applications with AWS Service Catalog
 LeasePlan Sitecore Implementation with Amazon EKS: https://aws.amazon.com/blogs/architecture/leaseplan-sitecore-implementation-with-amazon-eks/
 
 ##
-<img src="./img/codeproject-banner.png" height="100"/>
+<img src="./img/codeproject-logo.png" height="100"/>
 
 Discovering the Vine API (April 2015): http://www.codeproject.com/Articles/893709/Discovering-the-Vine-API
 
