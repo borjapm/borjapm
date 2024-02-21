@@ -30,23 +30,18 @@ Outside work, you can find me traveling the world or trying asian food (speciall
 <br/>
 
 ## Content
-<img src="./img/aws.png" height="80"/>
 
+### AWS
 - [Standardizing CI/CD pipelines for .NET web applications with AWS Service Catalog](https://aws.amazon.com/blogs/devops/standardizing-cicd-pipelines-net-web-applications-aws-service-catalog/)
 
 - [LeasePlan Sitecore Implementation with Amazon EKS](https://aws.amazon.com/blogs/architecture/leaseplan-sitecore-implementation-with-amazon-eks/)
 
-
-##
-<img src="./img/sitecore-logo.png" height="50"/>
-
+### Sitecore on AWS
 - [Sitecore on AWS Reference Deployment](https://aws.amazon.com/solutions/partners/sitecore-xp)
 
 - [Sitecore on AWS QuickStart Templates](https://github.com/aws-ia/cfn-ps-aws-ec2-sitecore-xp)
 
-##
-<img src="./img/codeproject-logo.png" height="100"/>
-
+### CodeProject
 - [Discovering the Vine API (April 2015)](http://www.codeproject.com/Articles/893709/Discovering-the-Vine-API)
 
 - [Windows Phone 8.1 Media Editing API (July 2014)](http://www.codeproject.com/Articles/795003/Windows-Phone-Media-Editing-API)
