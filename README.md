@@ -21,7 +21,7 @@ Outside work, you can find me traveling the world or trying asian food (speciall
 </td>
 <td valign="top"> <img src="./img/codeproject.png" height="180"/>
       
-👥 [CodeProject Top Author](https://www.codeproject.com/script/Membership/View.aspx?mid=8606340)
+👥 [CodeProject Top Author](https://main.codeproject.com/search?editorId=8606340)
 
 👥 [Best Mobile Article of July 2014](https://www.codeproject.com/Competitions/750/Best-Mobile-Article-of-July-2014)
 </td>
