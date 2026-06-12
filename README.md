@@ -19,13 +19,7 @@ Outside work, you can find me traveling the world or trying asian food (speciall
 
 👥 [Sitecore MVP](https://mvp.sitecore.com/en/Directory/Profile?id=71c35bbd22cb4bdc58dc08dacb4853b0) (Most Valuable Professional) 2019
 </td>
-<td valign="top"> <img src="./img/codeproject.png" height="180"/>
-      
-👥 [CodeProject Top Author](https://main.codeproject.com/search?editorId=8606340)
 
-👥 [Best Mobile Article of July 2014](https://www.codeproject.com/Competitions/750/Best-Mobile-Article-of-July-2014)
-</td>
-</tr>
 </table>
 <br/>
 
