@@ -19,28 +19,29 @@ Outside work, you can find me traveling the world or trying asian food (speciall
 
 👥 [Sitecore MVP](https://mvp.sitecore.com/en/Directory/Profile?id=71c35bbd22cb4bdc58dc08dacb4853b0) (Most Valuable Professional) 2019
 </td>
+<td valign="top"> <img src="./img/codeproject.png" height="180"/>
+      
+👥 [CodeProject Top Author]
 
+</td>
+</tr>
 </table>
 <br/>
 
 ## Content
 
-### AWS
-- [Standardizing CI/CD pipelines for .NET web applications with AWS Service Catalog](https://aws.amazon.com/blogs/devops/standardizing-cicd-pipelines-net-web-applications-aws-service-catalog/)
-
-- [LeasePlan Sitecore Implementation with Amazon EKS](https://aws.amazon.com/blogs/architecture/leaseplan-sitecore-implementation-with-amazon-eks/)
-
 ### Sitecore on AWS
-- [Sitecore on AWS Reference Deployment](https://aws.amazon.com/solutions/partners/sitecore-xp)
+- [Sitecore on AWS Deployment Guide](https://aws-ia.github.io/cfn-ps-aws-ec2-sitecore-xp/)
 
 - [Sitecore on AWS QuickStart Templates](https://github.com/aws-ia/cfn-ps-aws-ec2-sitecore-xp)
 
-### CodeProject
-- [Discovering the Vine API (April 2015)](http://www.codeproject.com/Articles/893709/Discovering-the-Vine-API)
+### CodeProject (CodeProject has been shut-down so there's no access to the public articles besieds archite crawlers)
 
-- [Windows Phone 8.1 Media Editing API (July 2014)](http://www.codeproject.com/Articles/795003/Windows-Phone-Media-Editing-API)
+- [Discovering the Vine API (April 2015)](removed)
 
-- [WinRT Apps Exception Logging (Dec 2013)](http://www.codeproject.com/Articles/690019/WinRT-Apps-Exception-Logging)
+- [Windows Phone 8.1 Media Editing API (July 2014)](removed)
+
+- [WinRT Apps Exception Logging (Dec 2013)](removed)
 <br/>
 
 ## Projects
