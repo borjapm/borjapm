@@ -1,7 +1,7 @@
 # Hi, my name is Borja Prado 👋
-### Specialist Solutions Architect @ AWS
+### Principal Solutions Architect @ AWS
 
-I´m Senior Specialist Solutions Architect at AWS for Microsoft technologies, leading modernization activities of windows-based workloads in EMEA.  
+I´m Principal Infrastructure Migration and Modernization Solutions Architect at AWS, leading large-scale migrations and modernization activities across EMEA.  
 
 I'm passionate about multicloud environments, complex cross-cloud migrations, web architectures and application modernization, helping customers to build scalable solutions with .NET on AWS. 
 
@@ -11,13 +11,13 @@ Outside work, you can find me traveling the world or trying asian food (speciall
 <table><tr align="center">
 <td valign="top"> <img src="./img/mvp-sitecore.jpeg" height="180"/>
         
-👥 [Sitecore MVP](https://mvp.sitecore.com/Directory?q=borja%20prado&fc_Year=2022) (Most Valuable Professional) 2022
+👥 [Sitecore MVP](https://mvp.sitecore.com/en/Directory/Profile?id=71c35bbd22cb4bdc58dc08dacb4853b0) (Most Valuable Professional) 2022
 
-👥 [Sitecore MVP](https://mvp.sitecore.com/Directory?q=borja%20prado&fc_Year=2021) (Most Valuable Professional) 2021
+👥 [Sitecore MVP](https://mvp.sitecore.com/en/Directory/Profile?id=71c35bbd22cb4bdc58dc08dacb4853b0) (Most Valuable Professional) 2021
 
-👥 [Sitecore MVP](https://mvp.sitecore.com/Directory?q=borja%20prado&fc_Year=2020) (Most Valuable Professional) 2020
+👥 [Sitecore MVP](https://mvp.sitecore.com/en/Directory/Profile?id=71c35bbd22cb4bdc58dc08dacb4853b0) (Most Valuable Professional) 2020
 
-👥 [Sitecore MVP](https://mvp.sitecore.com/Directory?q=borja%20prado&fc_Year=2019) (Most Valuable Professional) 2019
+👥 [Sitecore MVP](https://mvp.sitecore.com/en/Directory/Profile?id=71c35bbd22cb4bdc58dc08dacb4853b0) (Most Valuable Professional) 2019
 </td>
 <td valign="top"> <img src="./img/codeproject.png" height="180"/>
       
