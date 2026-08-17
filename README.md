@@ -7,7 +7,7 @@ I'm passionate about multicloud environments, complex cross-cloud migrations, AI
 
 Outside work, you can find me traveling the world or trying asian food (specially thai ;D).
 
-## Tech
+## Recognitions
 <table width="50%"><tr align="center">
 <td valign="top" width="33%"> <img src="./img/aws_1.png" height="150"/>
 
