@@ -42,7 +42,11 @@ For years this site has been a haven for developers, and as top contributor it's
 ### Sitecore on AWS
 - [Sitecore on AWS Deployment Guide](https://aws-ia.github.io/cfn-ps-aws-ec2-sitecore-xp/)
 
-- [Sitecore on AWS QuickStart Templates](https://github.com/aws-ia/cfn-ps-aws-ec2-sitecore-xp)
+- [Sitecore XP on AWS QuickStart Templates](https://github.com/borjapm/quickstart-aws-ec2-sitecore-xp)
+
+- [Sitecore XM on AWS QuickStart Templates](https://github.com/borjapm/quickstart-aws-ec2-sitecore-xm)
+
+- [LeasePlan Sitecore Implementation with Amazon EKS](https://aws.amazon.com/es/blogs/architecture/leaseplan-sitecore-implementation-with-amazon-eks/)
 
 ### CodeProject (CodeProject has been shutdown so there's no access to its content anymore)
 
