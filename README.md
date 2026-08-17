@@ -26,7 +26,7 @@ Outside work, you can find me traveling the world or trying asian food (speciall
 </td>
 
 <td valign="top" width="33%"> <img src="./img/codeproject.png" height="180"/>
-👥 [CodeProject Top Author]<br/>
+👥 CodeProject Top Author<br/>
 <br/>
 For years this site has been a haven for developers, and as top contributor it's sad to see the shutdown of CodeProject
 </td>
