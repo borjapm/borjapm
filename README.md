@@ -8,8 +8,12 @@ I'm passionate about multicloud environments, complex cross-cloud migrations, AI
 Outside work, you can find me traveling the world or trying asian food (specially thai ;D).
 
 ## Awards
-<table><tr align="center">
-<td valign="top"> <img src="./img/mvp-sitecore.jpeg" height="180"/>
+<table width="50%"><tr align="center">
+<td valign="top" width="30%"> <img src="./img/aws.png" height="180"/>
+👥 Principal Solutions Architect
+</td>
+
+<td valign="top" width="40%"> <img src="./img/mvp-sitecore.jpeg" height="180"/>
         
 👥 [Sitecore MVP](https://mvp.sitecore.com/en/Directory/Profile?id=71c35bbd22cb4bdc58dc08dacb4853b0) (Most Valuable Professional) 2022
 
@@ -20,14 +24,9 @@ Outside work, you can find me traveling the world or trying asian food (speciall
 👥 [Sitecore MVP](https://mvp.sitecore.com/en/Directory/Profile?id=71c35bbd22cb4bdc58dc08dacb4853b0) (Most Valuable Professional) 2019
 </td>
 
-<td valign="top"> <img src="./img/codeproject.png" height="180"/>
+<td valign="top" width="30%"> <img src="./img/codeproject.png" height="180"/>
 👥 [CodeProject Top Author]
-As an active member of this community, it's sad to see the shutdown of CodeProject. For years this site has been a haven for developers, and as I've been top contributor multiple times I'm leaving a space in my GitHub page for it.
-</td>
-</tr>
-
-<td valign="top"> <img src="./img/codeproject.png" height="180"/>
-👥 [Cloud Expert]
+<p>For years this site has been a haven for developers, and as top contributor it's sad to see the shutdown of CodeProject</p>
 </td>
 </tr>
 </table>
@@ -36,9 +35,7 @@ As an active member of this community, it's sad to see the shutdown of CodeProje
 ## Content
 
 ### Azure to AWS
-- [Migrate Azure SQL Managed Instance to Amazon RDS for SQL Server]([https://aws-ia.github.io/cfn-ps-aws-ec2-sitecore-xp/](https://aws.amazon.com/blogs/modernizing-with-aws/migrate-azure-sql-managed-instance-to-amazon-rds-for-sql-server-with-byom/))
-
-- [Sitecore on AWS QuickStart Templates](https://github.com/aws-ia/cfn-ps-aws-ec2-sitecore-xp)
+- [Migrate Azure SQL Managed Instance to Amazon RDS for SQL Server](https://aws.amazon.com/blogs/modernizing-with-aws/migrate-azure-sql-managed-instance-to-amazon-rds-for-sql-server-with-byom/)
   
 ### Sitecore on AWS
 - [Sitecore on AWS Deployment Guide](https://aws-ia.github.io/cfn-ps-aws-ec2-sitecore-xp/)
