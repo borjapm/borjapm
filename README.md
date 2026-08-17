@@ -11,7 +11,8 @@ Outside work, you can find me traveling the world or trying asian food (speciall
 <table width="50%"><tr align="center">
 <td valign="top" width="33%"> <img src="./img/aws_1.png" height="180"/>
 
-👥 Principal Solutions Architect
+👥 Principal Cloud Solutions Architect 
+
 </td>
 
 <td valign="top" width="33%"> <img src="./img/mvp-sitecore.jpeg" height="180"/>        
